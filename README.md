@@ -2,7 +2,7 @@
 
 🌟 **About Me**  
 - 💻 CSE student at UIET, Panjab University, Chandigarh  
-- 🌱 Currently learning **Analysis and Design of Algorithms(ADA)** and **Operating Systems**  
+- 🌱 Currently learning **Analysis and Design of Algorithms(ADA)** and **Operating Systems (OS)**  
 - 💡 Passionate about **Web development** and solving challenging problems  
 - 🎯 My goal is to become proficient in **full-stack development** and **DSA**  
 - 🎹 I love playing the piano and exploring new technologies  
