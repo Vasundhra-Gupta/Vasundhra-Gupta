@@ -4,15 +4,15 @@
 - 💻 CSE student at UIET, Panjab University, Chandigarh  
 - 🌱 Currently learning **Analysis and Design of Algorithms(ADA)** and **Operating Systems (OS)**  
 - 💡 Passionate about **Web development** and solving challenging problems  
-- 🎯 My goal is to become proficient in **full-stack development** and **DSA**  
+- 🎯 My goal is to become proficient in **my skills**.
 - 🎹 I love playing the piano and exploring new technologies  
 
 ---
 
 ✨ **Skills & Technologies**  
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: HTML, CSS, JavaScript, React
 - **Backend**: Node.js, Express.js  
-- **Databases**: MySQL, Oracle  
+- **Databases**: MySQL, Oracle, MongoDB  
 - **Tools & Platforms**: Git, GitHub  
 
 ---
