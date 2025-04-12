@@ -1,7 +1,7 @@
 # Greetings ! I'm Vasundhra Gupta  
 
 🌟 **About Me**  
-- 💻 CSE student at UIET, Panjab University, Chandigarh  
+- 💻 2nd Year CSE student at UIET, Panjab University, Chandigarh  
 - 🌱 Currently learning **Analysis and Design of Algorithms(ADA)** and **Operating Systems (OS)**  
 - 💡 Passionate about **Web development** and solving challenging problems  
 - 🎯 My goal is to become proficient in **my skills**.
@@ -13,7 +13,7 @@
 - **Frontend**: HTML, CSS, JavaScript, React
 - **Backend**: Node.js, Express.js  
 - **Databases**: MySQL, Oracle, MongoDB  
-- **Tools & Platforms**: Git, GitHub  
+- **Tools & Platforms**: Git, GitHub, Postman
 
 ---
 
@@ -24,8 +24,8 @@
 ---
 -->
 
-🚀 **Goals for 2024**  
-- Strengthen my DSA and problem-solving skills  
+🚀 **Goals for 2025**  
+- Strengthen problem-solving skills  
 - Build innovative projects and contribute to open source  
 - Participate in hackathons and grow as a developer  
 
