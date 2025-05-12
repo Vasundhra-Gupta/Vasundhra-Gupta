@@ -19,8 +19,8 @@
 
 📌 **Projects**  
 
-- **Personal Diary and Discussion Platform: ** [connectWithMe](https://connectwithme-vatb.onrender.com)
-- **OS Visualizer: ** [visualos.tech](https://visualos.tech)
+- **Personal Diary and Discussion Platform**: [connectWithMe](https://connectwithme-vatb.onrender.com)
+- **OS Visualizer**: [visualos.tech](https://visualos.tech)
 
 ---
 
