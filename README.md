@@ -17,12 +17,12 @@
 
 ---
 
-<!-- 📌 **What I'm Currently Working On**  
-- Building a **task and goal management application** as my first major project  
-- Preparing for exams while maintaining a balance with development  
+📌 **Projects**  
+
+- **Personal Diary and Discussion Platform:** [connectWithMe](https://connectwithme-vatb.onrender.com))  
+- **OS Visualizer:** [visualos.tech](https://visualos.tech)
 
 ---
--->
 
 🚀 **Goals for 2025**  
 - Strengthen problem-solving skills  
