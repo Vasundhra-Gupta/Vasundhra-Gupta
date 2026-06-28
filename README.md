@@ -31,7 +31,6 @@
 🌐 **Connect With Me**  
 - 📧 **Email**: vasundhragupta962@gmail.com  
 - 💼 **LinkedIn**: https://www.linkedin.com/in/vasundhra-gupta-764713291
-- 🎮 **Discord**: https://discord.gg/kN96hZ9A
 - 💻 **LeetCode:** https://leetcode.com/u/vasundhra-gupta
 
 Feel free to collaborate & share ideas! ✨  
