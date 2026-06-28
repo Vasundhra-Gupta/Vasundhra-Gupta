@@ -1,36 +1,38 @@
 # Hi, I'm Vasundhra Gupta 
 
 🌟 **About Me**  
-- 🎓 3rd Year CSE student at UIET, Panjab University, Chandigarh
-- 💻 Currently focusing on DSA and exploring Generative AI
-- 🤖 Have learned Machine Learning and enjoy experimenting with AI-driven applications and solutions
-- 🌐 Passionate about Web Development and building impactful projects
-- 🎯 Goal: To sharpen problem-solving skills & hone existing skills
-- 🎹 Fun fact: I enjoy playing piano in free time
+- 🎓 Final-year Computer Science student at **Panjab University**
+- 💻 Strong foundation in **Data Structures & Algorithms**
+- 🤖 Hands-on experience in **Machine Learning** and exploring **Deep Learning**
+- ⚙️ Interested in **Backend Development** and scalable software architecture
+- 🌐 Enjoy building full-stack applications with intuitive user experiences
+- 📚 Always curious about learning, experimenting, and solving challenging problems
 
 ---
 
 ✨ **Skills & Technologies**  
-- **Languages**: C, C++, JavaScript, SQL, Python, PHP
-- **Web Dev**: HTML, CSS, Tailwind CSS, React.js, Node.js, Express.js (MERN Stack), FastAPI
-- **Tools & Platforms**: Git, GitHub, Postman, VS Code, Canva, Google Colab, Render
-- **Machine Learning**: Scikit-learn, Pandas, NumPy, Imbalanced-learn
-- **Databases**: MongoDB, MySQL, Oracle
-- **CS Fundamentals**: Data Structures, OOP, OS Concepts, DBMS, Networking (Basic)
+**Languages**:  C++, JavaScript, SQL, Python
+**Web Dev**: MERN Stack (MongoDB, Express.js, React.js, Node.js), HTML5, Tailwind CSS, FastAPI 
+**Tools & Platforms**: Git, GitHub, Postman, Google Colab, Render, Docker  
+**AI**: Machine Learning, GenAI, RAGs, LLMs, Deep Learning 
+**Databases**: MongoDB, MySQL, PostgreSQL, Oracle
+**CS Fundamentals**: Data Structures, OOP, OS, DBMS, Networking, Linux
 
 ---
 
-🚀 **Goals for 2025**  
+🚀 **Goals for 2026**  
 - Strengthen problem-solving skills  
-- Build innovative projects 
-- Participate in hackathons and grow 
+- Develop scalable full-stack applications
+- Deepen expertise in Deep Learning and Software Engineering
+- Build innovative AI & Machine Learning projects
 
 ---
 
 🌐 **Connect With Me**  
-- 📧 Email: vasundhragupta962@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/vasundhra-gupta-764713291
-- 🎮 Discord: https://discord.gg/kN96hZ9A
+- 📧 **Email**: vasundhragupta962@gmail.com  
+- 💼 **LinkedIn**: https://www.linkedin.com/in/vasundhra-gupta-764713291
+- 🎮 **Discord**: https://discord.gg/kN96hZ9A
+- 💻 **LeetCode:** https://leetcode.com/u/vasundhra-gupta
 
 Feel free to collaborate & share ideas! ✨  
 
