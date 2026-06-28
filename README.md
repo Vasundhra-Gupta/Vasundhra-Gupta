@@ -11,12 +11,12 @@
 ---
 
 ✨ **Skills & Technologies**  
-**Languages**:  C++, JavaScript, SQL, Python
-**Web Dev**: MERN Stack (MongoDB, Express.js, React.js, Node.js), HTML5, Tailwind CSS, FastAPI 
-**Tools & Platforms**: Git, GitHub, Postman, Google Colab, Render, Docker  
-**AI**: Machine Learning, GenAI, RAGs, LLMs, Deep Learning 
-**Databases**: MongoDB, MySQL, PostgreSQL, Oracle
-**CS Fundamentals**: Data Structures, OOP, OS, DBMS, Networking, Linux
+- **Languages**:  C++, JavaScript, SQL, Python
+- **Web Dev**: MERN Stack (MongoDB, Express.js, React.js, Node.js), HTML5, Tailwind CSS, FastAPI
+- **Tools & Platforms**: Git, GitHub, Postman, Google Colab, Render, Docker
+- **AI**: Machine Learning, GenAI, RAGs, LLMs, Deep Learning
+- **Databases**: MongoDB, MySQL, PostgreSQL, Oracle
+- **CS Fundamentals**: Data Structures, OOP, OS, DBMS, Networking, Linux
 
 ---
 
